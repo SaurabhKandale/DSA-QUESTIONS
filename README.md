@@ -11,3 +11,4 @@ Most of the questions will be from Leetcode and GeeksForGeeks.
 - [Abolute List Sorting](https://practice.geeksforgeeks.org/problems/absolute-list-sorting/1/?category[]=Linked%20List&category[]=Linked%20List&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Linked%20ListproblemStatusunsolveddifficulty[]0page1category[]Linked%20List#)
 - [Reverse K nodes in a Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1#)
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+- [Detect and Remove loop](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)
