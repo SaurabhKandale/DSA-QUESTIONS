@@ -13,3 +13,5 @@ Most of the questions are from Leetcode and GeeksForGeeks.
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [Detect and Remove loop](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)
 - [Happy Number (Application of slow and fast pointer) ](https://leetcode.com/problems/happy-number/submissions/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [Rotate List](https://leetcode.com/problems/rotate-list/)
