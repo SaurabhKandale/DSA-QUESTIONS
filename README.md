@@ -17,3 +17,4 @@ Most of the questions are from Leetcode and GeeksForGeeks.
 - [Rotate List](https://leetcode.com/problems/rotate-list/)
 - [Merge Sort for Linked List](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1/?category[]=Linked%20List&category[]=Linked%20List&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Linked%20ListproblemStatusunsolveddifficulty[]1page1category[]Linked%20List#)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#)
