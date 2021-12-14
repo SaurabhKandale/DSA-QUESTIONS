@@ -18,3 +18,9 @@ Most of the questions are from Leetcode and GeeksForGeeks.
 - [Merge Sort for Linked List](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1/?category[]=Linked%20List&category[]=Linked%20List&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Linked%20ListproblemStatusunsolveddifficulty[]1page1category[]Linked%20List#)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#)
+
+**TREES**
+-	[Maximum depth or Height of binary tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+-	[Check for Balanced Binary Tree]( https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1#)
+-	[Diameter of Binary Tree]( https://leetcode.com/problems/diameter-of-binary-tree/)
+-	[ZigZag Traversal of Binary Tree]( https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/)
