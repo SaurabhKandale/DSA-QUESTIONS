@@ -26,5 +26,5 @@ Most of the questions are from Leetcode and GeeksForGeeks.
 -	[ZigZag Traversal of Binary Tree]( https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/)
 
 **Hashing**
--       [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/?category[]=Hash&category[]=Hash&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]HashproblemStatusunsolveddifficulty[]1page1category[]Hash)
--       [Destination City](https://leetcode.com/problems/destination-city)
+- [Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/?category[]=Hash&category[]=Hash&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]HashproblemStatusunsolveddifficulty[]1page1category[]Hash)
+- [Destination City](https://leetcode.com/problems/destination-city)
